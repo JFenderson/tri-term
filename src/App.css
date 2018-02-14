@@ -14,14 +14,25 @@
 
 .showPeople {
   text-align: center;
+  background-color: #0375B4;
+  color: #FFCE00;
+  padding: 50px;
+  margin: 10px;
 }
 .filmsHeading{
   background-color: #0375B4;
+}
+.filmTitle{
+  background-color: #0375B4;
+  color: #FFCE00;
+  border-radius: 5px;
 }
 
 .personName{
   font-family: 'Kavivanar', cursive;
   font-size: 2em;
+  background-color: #FFCE00;
+  color: #007849;
 }
 .person {
   font-family: 'Amatic SC', cursive;
@@ -44,7 +55,7 @@
 
 .peopleBtn{
   font-size: 1.5em;
-  background-color: #FFCE00;
-  color: #0375B4;
+  background-color: #0375B4;
+  color: #FFCE00;
 }
 
