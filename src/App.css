@@ -1,0 +1,50 @@
+.logo{
+  width: 100%;
+  height: 25em;
+}
+.body{
+  background-color: black;
+}
+.showFilm {
+  text-align: center;
+  background-color: #007849;
+  padding: 50px;
+  margin: 10px;
+}
+
+.showPeople {
+  text-align: center;
+}
+.filmsHeading{
+  background-color: #0375B4;
+}
+
+.personName{
+  font-family: 'Kavivanar', cursive;
+  font-size: 2em;
+}
+.person {
+  font-family: 'Amatic SC', cursive;
+  font-size: 2em;
+}
+.filmTitle{
+  font-family: 'Kavivanar', cursive;
+  font-size: 2em;
+}
+.film{
+  font-family: 'Amatic SC', cursive;
+  font-size: 2em;
+}
+
+.filmsBtn{
+  font-size: 1.5em;
+  background-color: #FFCE00;
+  color: #0375B4;
+}
+
+.peopleBtn{
+  font-size: 1.5em;
+  background-color: #FFCE00;
+  color: #0375B4;
+}
+
